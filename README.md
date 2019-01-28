@@ -36,7 +36,7 @@ Running tests:
 
 ### HTTP mapping
 
-We're currently not implementing the HTTP mapping as described in the [QUIC over HTTP draft](https://quicwg.org/base-drafts/draft-ietf-quic-http.html). The HTTP mapping here is a leftover from Google QUIC.
+We're currently not implementing the HTTP mapping as described in the [HTTP over QUIC draft](https://quicwg.org/base-drafts/draft-ietf-quic-http.html). The HTTP mapping here is a leftover from Google QUIC.
 
 ### QUIC without HTTP/2
 
